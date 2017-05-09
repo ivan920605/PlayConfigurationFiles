@@ -1,4 +1,4 @@
 application:
-  descriptin: Welcome To Health Provider System!
+  description: Welcome To Health Provider System!
 server:
   port: 8080
